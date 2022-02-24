@@ -1,7 +1,9 @@
 # Hello, This is Alessandro! 👋 
 I am an automotive enthusiast and currently a master student of Automation Enginnering at University of Bologna.
 
-* Currently looking forward to learn **Python** :smile:
+* Member of Driverless divison at UniboMotorsport, focus on Motion Planning and Control. 
+
+* Looking forward to learn **Python** :smile:
 
 * Proficient in *MATLAB & Simulink*
 * Used to write in *LaTeX*
