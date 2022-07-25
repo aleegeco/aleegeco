@@ -1,5 +1,5 @@
 # Hello, This is Alessandro! 👋 
-I am an automotive enthusiast and currently a master student of Automation Enginnering at University of Bologna.
+I am an automotive enthusiast and currently a master student of Automation Engineering at University of Bologna.
 
 * Member of Driverless divison at UniboMotorsport, focus on Motion Planning and Control. 
 
