@@ -1,11 +1,11 @@
 # Hello, This is Alessandro! 👋 
-I am an automotive enthusiast and currently a master student of Automation Engineering at University of Bologna.
+I am an automotive enthusiast and a master student of Automation Engineering at University of Bologna.
 
-* Member of Driverless divison at UniboMotorsport, focus on Motion Planning and Control. 
-
-* Looking forward to learn **Python** :smile:
+* Currently Master Thesis Intern at ETH Zurich in Frazzoli's group.
+* Senior Driverless Division member at UniboMotorsport, focus on Motion Planning and Control. 
 
 * Proficient in *MATLAB & Simulink*
+* Developing my current projects in *Python* :smile:
 * Used to write in *LaTeX*
 
 ### How to reach me:
