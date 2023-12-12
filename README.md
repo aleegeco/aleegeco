@@ -1,11 +1,12 @@
 # Hello, This is Alessandro! 👋 
-I am an automotive enthusiast and a master student of Automation Engineering at University of Bologna.
+* Currently PhD student at University of Bologna and KU Leuven, supervised by Michelangelo Bin and Rodolphe Sepulchre.
 
-* Currently Master Thesis Intern at ETH Zurich in Frazzoli's group.
-* Senior Driverless Division member at UniboMotorsport, focus on Motion Planning and Control. 
+* Interested in Control Theory, Automotive, Finance, Standup Comedy not necessarily in this order 😄
+
+* Previously Master Thesis Intern at ETH Zurich in Frazzoli's group and Driverless Division member at UniboMotorsport. 
 
 * Proficient in *MATLAB & Simulink*
-* Developing my current projects in *Python* :smile:
+* Developing my current projects in *Python* 🛰️
 * Used to write in *LaTeX*
 
 ### How to reach me:
