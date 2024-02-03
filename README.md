@@ -1,7 +1,7 @@
 # Hello, This is Alessandro! 👋 
 * Currently PhD student at University of Bologna and KU Leuven, supervised by Michelangelo Bin and Rodolphe Sepulchre.
 
-* Interested in Control Theory, Automotive, Finance, Stand-up Comedy (not necessarily in this order 😄).
+* Interested in Control Theory, Automotive, Robotics, Finance, Stand-up Comedy (not necessarily in this order 😄).
 
 * Previously Master Thesis Intern at ETH Zurich in Frazzoli's group and Driverless Division member at UniboMotorsport. 
 
