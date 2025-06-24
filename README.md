@@ -7,12 +7,10 @@
 
 * Previously Master Thesis Intern at ETH Zurich in Frazzoli's group and Driverless Division member at UniboMotorsport. 
 
-* Proficient in *MATLAB & Simulink*.
-* Developing my current projects in *Python* 🛰️.
-* Used to write in *LaTeX*.
-
+* Proficient in *MATLAB & Simulink, Python*.
+* 
 ### How to reach me:
-* 📫 [email](ale.c.cecconi@gmail.com)
+* 📫 [email](a.cecconi@unibo.it)
 * 👨‍💼 [LinkedIn](http://www.linkedin.com/in/alessandro-cecconi-a5a988182/)
 <!---
 aleegeco/aleegeco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
