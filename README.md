@@ -1,6 +1,8 @@
 # Hello, This is Alessandro! 👋 
 * Currently joint PhD student between University of Bologna and KU Leuven, supervised by Michelangelo Bin, Lorenzo Marconi and Rodolphe Sepulchre.
 
+* My research is about Neuromorphic circuits, Control and Regulation.
+
 * Interested in Control Theory, Automotive, Robotics, Finance, Stand-up Comedy and Electronic Music (not necessarily in this order 😄).
 
 * Previously Master Thesis Intern at ETH Zurich in Frazzoli's group and Driverless Division member at UniboMotorsport. 
